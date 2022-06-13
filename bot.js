@@ -46,13 +46,13 @@ global.sessionName = 'session' //session name
 global.prefa = ['#','!','/',''] //prefix
 global.sp = '🔵' //sp
 global.mess = {
-    success: 'Takaenda Done!',
+    success: 'Hm Done!',
     admin: '*Hanya Untuk Admin!*',
     botAdmin: '*MoonBot Harus Menjadi Admin Terlebih dahulu!*',
     owner: '*Fitur Hanya Untuk Owner MoonBot*',
-    group: '*Feature is only for groups!*',
-    private: 'Features Used Only For Private Chat!',
-    bot: 'This feature in ',
+    group: '*Hanya Untuk Grub!*',
+    private: 'Hanya Untuk Private Chat!',
+    bot: 'Hanya Untuk Nomor Bot ',
     wait: '*MoonBot Sedang Proses*',
     endLimit: '*Your daily limit has expired the limit will be reseted every 12 hours*',
 }
